@@ -1,3 +1,4 @@
+#t1 #t2
 **Objeto** *mensaje*
 Mensaje: El que
 Metodo : Como, es la respuesta al mensaje, la implementacion
